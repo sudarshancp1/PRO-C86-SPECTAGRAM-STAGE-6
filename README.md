@@ -1,1 +1,2 @@
-# PRO-C86-SPECTAGRAM-STAGE-6
+# spectagram-stage-6
+project solution for c86
